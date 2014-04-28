@@ -1,7 +1,7 @@
 silex-user
 ==========
 
-# Install
+# Installation
 
 Add this to your composer.json and then run `php composer update`:
 
