@@ -3,7 +3,7 @@ silex-user
 
 # Installation
 
-Add this to your composer.json and then run `php composer update`:
+Add this to your composer.json and then run `php composer.phar update`:
 
     "require": {
         "silex/silex": "~1.0",
