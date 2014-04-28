@@ -1,6 +1,6 @@
 {
     "name": "atelier1100/silex-user",
-    "type": "library",
+    "version": "2.3",
     "description": "A user provider for Silex.",
     "keywords": ["silex", "user", "user provider"],
     "homepage": "http://github.com/Atelier1100/silex-user",
