@@ -1,5 +1,5 @@
 {
-    "name": "Atelier1100/silex-user",
+    "name": "atelier1100/silex-user",
     "type": "library",
     "description": "A user provider for Silex.",
     "keywords": ["silex", "user", "user provider"],
