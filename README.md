@@ -1,12 +1,12 @@
 silex-user
 ==========
 
-Add this to your composer.json and then run 'composer update':
+Add this to your composer.json and then run `php composer update`:
 
     "require": {
-        "silex/silex": "1.0.*@dev"
-        , "doctrine/dbal": "~2.2"
-        , "symfony/security": "~2.1"
-        , "symfony/twig-bridge": "~2.1"
-        , "jasongrimes/silex-simpleuser": "~0.6.3"
+        "silex/silex": "~1.0",
+        "doctrine/dbal": "~2.3",
+        "symfony/security": "~2.3",
+        "symfony/twig-bridge": "~2.3",
+        "Atelier1100/silex-user": "~2.3"
     }
