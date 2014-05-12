@@ -1,7 +1,7 @@
+# WIP!!!
+
 silex-user
 ==========
-
-# WIP!!!
 
 # Installation
 
