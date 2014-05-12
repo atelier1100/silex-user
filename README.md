@@ -1,6 +1,8 @@
 silex-user
 ==========
 
+# WIP!!!
+
 # Installation
 
 Add this to your composer.json and then run `php composer.phar update`:
