@@ -1,4 +1,4 @@
-# WIP!!!
+# Work In Progress
 
 silex-user
 ==========
