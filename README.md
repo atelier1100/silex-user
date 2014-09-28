@@ -12,5 +12,5 @@ Add this to your composer.json and then run `php composer.phar update`:
         "doctrine/dbal": "~2.3",
         "symfony/security": "~2.3",
         "symfony/twig-bridge": "~2.3",
-        "Atelier1100/silex-user": "~2.3"
+        "fredjuvaux/silex-user": "~2.3"
     }
